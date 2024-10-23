@@ -36,7 +36,7 @@
     
   </ol>
 
-  <p>Para acceder al sobre que es github pincha <a href="https://es.wikipedia.org/wiki/GitHub#:~:text=GitHub%20es%20una%20forja%20(plataforma,escrito%20en%20Ruby%20on%20Rails.">aquí</p>
+  <p>Para acceder al sobre que es github pincha <a _blank href="https://es.wikipedia.org/wiki/GitHub#:~:text=GitHub%20es%20una%20forja%20(plataforma,escrito%20en%20Ruby%20on%20Rails.">aquí</p>
 
   
 </ol>
