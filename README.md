@@ -40,4 +40,4 @@
   <p>Para acceder al enlace sobre que es entornos de desarrollo <a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado#:~:text=Un%20entorno%20de%20desarrollo%20integrado,programador%20el%20desarrollo%20de%20software."> </p>
 
 <p>Imagen con el logo de Github</p>
-![LogoGithub, Github Logot](C:\Users\USUARIO\Downloads\LogoGithub.jpg)
+<img src="C:\Users\USUARIO\Downloads\LogoGithub.jpg" width="300" height="200" alt"Logo Github">
