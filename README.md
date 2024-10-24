@@ -40,4 +40,5 @@
   <p>Para acceder al enlace sobre que es Markdown pincha <a href="https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo"> aquí </p>
 
 <p>Imagen con el logo de Github</p>
-<img src="C:\Users\USUARIO\Downloads\LogoGithub.jpg" width="300" height="200" alt"Logo Github">
+![The San Juan Mountains are beautiful!](c:/Users/AlumnoT/Downloads/LogoGithub.jpg "San Juan Mountains")
+
