@@ -39,5 +39,7 @@
 <p>Para acceder al enlance sobre que es github pincha <a href="https://es.wikipedia.org/wiki/GitHub#:~:text=GitHub%20es%20una%20forja%20(plataforma,escrito%20en%20Ruby%20on%20Rails.">aquí</p>
   <p>Para acceder al enlace sobre que es Markdown pincha <a href="https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo"> aquí </p>
 
+  >Ejemplo de citagit
+
 <p>Imagen con el logo de Github</p>
 ![The San Juan Mountains are beautiful!](https://github.com/candela0018/Practica0/blob/main/LogoGithub.jpg "San Juan Mountains")
