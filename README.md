@@ -37,7 +37,7 @@
   </ol> 
 </ol>
 <p>Para acceder al enlance sobre que es github pincha <a href="https://es.wikipedia.org/wiki/GitHub#:~:text=GitHub%20es%20una%20forja%20(plataforma,escrito%20en%20Ruby%20on%20Rails.">aquí</p>
-  <p>Para acceder al enlace sobre que es entornos de desarrollo <a href="https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado#:~:text=Un%20entorno%20de%20desarrollo%20integrado,programador%20el%20desarrollo%20de%20software."> </p>
+  <p>Para acceder al enlace sobre que es Markdown pincha <a href="https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo"> aquí </p>
 
 <p>Imagen con el logo de Github</p>
 <img src="C:\Users\USUARIO\Downloads\LogoGithub.jpg" width="300" height="200" alt"Logo Github">
